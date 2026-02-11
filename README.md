@@ -1,2 +1,2 @@
-# Gym_management_sysrem
+# Gym_management_system
 This is my first repository 
